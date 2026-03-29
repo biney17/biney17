@@ -245,7 +245,7 @@ I'm always open to interesting projects, research collaborations, and opportunit
 &nbsp;
 
 📧 **Email:** [israbrahimi2002@gmail.com](mailto:israbrahimi2002@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](#) *(update link)*  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/isra-nour-el-yakine-b-713a38208/] 
 🐙 **GitHub:** [github.com/biney17](https://github.com/biney17)  
 
 &nbsp;
