@@ -1,4 +1,4 @@
-# 👁️ Isra Brahimi
+# 👁️ Isra Nour El Yakine Brahimi
 ## Embedded Systems & AI Engineer · Computer Vision Specialist
 
 > *"I don't just write code — I teach machines to see."*
