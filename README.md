@@ -3,17 +3,15 @@
 
 > *"I don't just write code — I teach machines to see."*
 
-📍 Jijel, Algeria &nbsp;|&nbsp; 📧 israbrahimi2002@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](#) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/biney17) &nbsp;|&nbsp; ✅ Available Immediately
+📍 Jijel, Algeria &nbsp;|&nbsp; 📧 israbrahimi2002@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/isra-nour-el-yakine-b-713a38208/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/biney17) &nbsp;|&nbsp; ✅ Available Immediately
 
 ---
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm Isra — an AI and Embedded Systems engineer who is genuinely obsessed with one question: *what happens when machines learn to perceive the world like we do?* My work lives at the intersection of Computer Vision and Deep Learning, where I get to build systems that detect, understand, and respond to the visual world in real time.
+Hi, I'm Isra — an AI and Embedded Systems engineer specializing in Computer Vision and Deep Learning. My work focuses on building systems that detect, understand, and respond to the visual world in real time — from medical image classifiers to real-time ocular tracking.
 
-I've spent the last few years turning that obsession into tangible things: a fire detection system that watches industrial cameras so humans don't have to, a fitness coach that reads your posture through a webcam, a medical image classifier that helps flag eye diseases with 96% accuracy. Whether I'm training a YOLOv8 model or fine-tuning a BERT transformer, I care deeply about building AI that actually works — and actually helps.
-
-Beyond the code, I thrive in collaborative environments. I've led teams, trained students in robotics and programming, and earned my Master's thesis score of **19.5/20** for an intelligent web application for AI-powered medical diagnosis. I'm currently an AI Intern at **Aitronix**, and I'm always looking for the next hard problem worth solving.
+I've delivered end-to-end AI projects across medical imaging, embedded edge devices, and real-time video analysis. I earned my Master's thesis score of **19.5/20** for an intelligent web application for AI-powered medical diagnosis, and I'm currently an AI Intern at **Aitronix** working on real-world CV pipelines.
 
 ---
 
@@ -22,13 +20,14 @@ Beyond the code, I thrive in collaborative environments. I've led teams, trained
 ### 👁️ Computer Vision
 - YOLOv8, OpenCV, MediaPipe, Haar Cascades
 - Object Detection, Image Segmentation, Pose Estimation
+- Real-time ocular tracking, Eye Aspect Ratio (EAR) analysis
 - Real-time video stream processing
 
 ### 🧠 AI & Deep Learning
 - TensorFlow, Keras, PyTorch
 - CNNs, Transfer Learning
+- Medical image classification (eye, brain, kidney)
 - BERT, T5, HuggingFace Transformers
-- NLP (Text Classification, Abstractive Summarization)
 
 ### 💻 Programming Languages
 - Python *(primary)*
@@ -37,21 +36,15 @@ Beyond the code, I thrive in collaborative environments. I've led teams, trained
 - Assembly
 
 ### ⚙️ Hardware & Embedded Systems
-- PCB Design, Arduino, Sensors
-- Power Electronics, Control Systems
+- Raspberry Pi 4, ESP32, Arduino
+- PCB Design, Power Electronics, Control Systems
 - PLC (Siemens), Microprocessor Architecture
+- Edge AI — TensorRT FP16, ONNX, real-time inference optimization
 
 ### 🧰 Tools & Platforms
 - Git / GitHub
-- Visual Studio Code, Arduino IDE
+- FastAPI, Visual Studio Code, Arduino IDE
 - Proteus, MATLAB
-- ReactJS *(for AI web interfaces)*
-
-### 🤝 Soft Skills
-- Leadership & Team Management
-- Clear Communication
-- Collaborative Problem-Solving
-- Technical Documentation
 
 ---
 
@@ -60,91 +53,51 @@ Beyond the code, I thrive in collaborative environments. I've led teams, trained
 ### 🤖 AI Intern — [Aitronix](https://aitronix.com) *(Remote)*
 **December 2025 – Present**
 
-Working on end-to-end Computer Vision pipelines using Python, TensorFlow, and OpenCV. Contributing to model training, evaluation, and technical documentation for CV products in a fast-moving applied AI environment.
+Working on end-to-end Computer Vision pipelines using Python, TensorFlow, and OpenCV for edge devices.
 
-- Developed and evaluated AI models for real-world Computer Vision tasks
-- Collaborated on project delivery from dataset preparation through to deployment
-- Produced clear technical documentation to support team knowledge-sharing
+- Developed a medical ocular disease classifier (CNN, TensorFlow/Keras) as my first professional project
+- Built and evaluated real-time CV models for embedded deployment
+- Collaborated on full project delivery from dataset preparation to documentation
 
 ---
 
 ### 🏭 Industrial Automation & Maintenance Intern — Algerian Qatari Steel
 **June – July 2024**
 
-Gained hands-on exposure to heavy industrial environments, supporting maintenance of motors, conveyor systems, and PLC automation logic. Participated in quality control protocols and industrial testing.
+Maintenance of motors, conveyor systems, and Siemens PLC logic in an active industrial environment.
 
 ---
 
 ### 🔧 Siemens Automation Intern — BIOREM Laboratories
 **March – April 2024**
 
-Studied Siemens PLC control sequences and automation logic in a laboratory setting. Built foundational understanding of industrial automation design patterns.
+Studied Siemens PLC architecture and automation logic in a laboratory setting.
 
 ---
 
 ### 🎓 Educational Content Developer & Technical Trainer — ELLABS
 **May – September 2023**
 
-Designed and delivered Arduino and Scratch programming curricula for students. Completed a *Training of Trainers* certification, formalizing an approach to effective technical education.
-
-- Created reusable learning materials for beginner-level embedded systems
-- Mentored students through hands-on robotics and coding workshops
-
----
-
-### 📡 Telecommunications Intern — Algérie Télécom
-**June 2023**
-
-Observed telecom infrastructure operations and network management in a national-scale provider environment.
-
----
-
-### ⚡ Instrumentation Intern — Sonelgaz
-**March 2023**
-
-Explored instrumentation systems and measurement equipment within the Algerian energy sector.
+- Designed and delivered Arduino and Scratch curricula for student cohorts
+- Completed *Training of Trainers* certification
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 Fire & Smoke Detection System
-**Stack:** Python · YOLOv8 · OpenCV  
-**Repo:** [biney17/Fire-Smoke-Detection-YOLOv8](https://github.com/biney17/Fire-Smoke-Detection-YOLOv8)
-
-A real-time fire and smoke detection system capable of processing live video feeds and triggering alerts. Built for integration with industrial surveillance infrastructure. Developed during my internship at Aitronix, this project represents the practical deployment of CV models in safety-critical environments.
-
----
-
-### 🏋️ AI Trainer — Real-Time Posture & Movement Coach
-**Stack:** Python · OpenCV · MediaPipe · Keras  
-**Repo:** [biney17/AI_Trainer](https://github.com/biney17/AI_Trainer)
-
-An AI-powered fitness coaching assistant that uses pose estimation to evaluate body movements and posture in real time via webcam. Delivers instant, actionable feedback — like having a personal trainer built into your laptop.
-
----
-
-### 🖱️ AI Virtual Mouse — Hand Tracking Interface
-**Stack:** Python · OpenCV · MediaPipe  
-**Repo:** [biney17/AI-Virtual-Mouse](https://github.com/biney17/AI-Virtual-Mouse)
-
-A touchless mouse controller that uses hand landmark tracking to move the cursor and perform clicks — no physical hardware required. A compelling demonstration of gesture-based human-computer interaction.
-
----
-
-### 🎨 Virtual Painter
-**Stack:** Python · OpenCV · MediaPipe  
-**Repo:** [biney17/Virtual_Painter](https://github.com/biney17/Virtual_Painter)
-
-A creative application that lets users draw in mid-air using their finger as a brush. Tracks hand movements in real time and renders strokes on a virtual canvas — blending art with computer vision.
-
----
-
-### 🧪 Eye Disease Classification
+### 🧪 Eye Disease Classification *(Aitronix — Professional)*
 **Stack:** Python · TensorFlow · Keras · CNN · OpenCV  
 **Repo:** [biney17/eye-disease-classification](https://github.com/biney17/eye-disease-classification)
 
-A medical image classifier trained to detect ocular diseases from retinal images. Applied image preprocessing and data augmentation to maximize model robustness and generalization across patient data.
+My first professional project at Aitronix. A CNN-based classifier for detecting ocular diseases from retinal images, with advanced preprocessing and data augmentation on medical datasets.
+
+---
+
+### 😴 Drowsiness Detection — Real-Time Ocular Tracking
+**Stack:** Python · OpenCV · MediaPipe · EAR Algorithm · Raspberry Pi 4  
+**Repo:** *(freelance — client delivery)*
+
+Real-time eye tracking system using Eye Aspect Ratio (EAR) to detect pupil closure patterns on live video streams. Deployed on Raspberry Pi 4 with optimized GStreamer pipeline. The same architecture (landmark tracking → temporal signal analysis → anomaly detection) is directly applicable to nystagmus detection.
 
 ---
 
@@ -152,23 +105,38 @@ A medical image classifier trained to detect ocular diseases from retinal images
 **Stack:** Python · TensorFlow · Keras · CNN  
 **Repo:** [biney17/brain-tumor-classification](https://github.com/biney17/brain-tumor-classification)
 
-CNN-based classifier for identifying brain tumors from MRI scans. Part of a broader research focus on applying deep learning to medical imaging for preliminary diagnostic support.
+CNN classifier for brain tumor detection from MRI scans. Part of my Master's thesis work on AI-powered medical diagnosis (thesis score: 19.5/20).
 
 ---
 
-### ✊ Rock-Paper-Scissors AI
-**Stack:** Python · OpenCV · Keras  
-**Repo:** [biney17/rock-paper-scissors-ai](https://github.com/biney17/rock-paper-scissors-ai)
+### 🔥 Fire & Smoke Detection System *(Aitronix — Internship)*
+**Stack:** Python · YOLOv8 · OpenCV  
+**Repo:** [biney17/Fire-Smoke-Detection-YOLOv8](https://github.com/biney17/Fire-Smoke-Detection-YOLOv8)
 
-An AI bot that competes at Rock-Paper-Scissors using real-time hand gesture recognition *and* pattern prediction — meaning it learns your tendencies and adapts. Equal parts game and applied ML demo.
+Real-time fire and smoke detection on live video feeds, built for industrial surveillance infrastructure during my internship at Aitronix.
 
 ---
 
-### 🔧 Maintenance Automation System
-**Stack:** Python · GPT API · Make (Automation)  
-**Repo:** [biney17/maintenance-automation-make](https://github.com/biney17/maintenance-automation-make)
+### ⚡ Industrial Defect Detection — Edge AI
+**Stack:** Python · YOLOv10n · TensorRT FP16 · ONNX  
 
-An intelligent automation system for maintenance workflows, integrating GPT for natural language reasoning with Make (formerly Integromat) for no-code process automation. Bridges AI and operational efficiency.
+YOLOv10n trained on NEU Surface Defect Database — mAP50 72.5%. Exported to TensorRT FP16 achieving 115 FPS (×2.6 speedup). Full optimization pipeline from training to embedded deployment.
+
+---
+
+### 🏋️ AI Trainer — Real-Time Posture Coach
+**Stack:** Python · OpenCV · MediaPipe · Keras  
+**Repo:** [biney17/AI_Trainer](https://github.com/biney17/AI_Trainer)
+
+Pose estimation system evaluating body movements and posture in real time via webcam.
+
+---
+
+### 🖱️ AI Virtual Mouse
+**Stack:** Python · OpenCV · MediaPipe  
+**Repo:** [biney17/AI-Virtual-Mouse](https://github.com/biney17/AI-Virtual-Mouse)
+
+Touchless mouse controller using hand landmark tracking — no physical hardware required.
 
 ---
 
@@ -176,15 +144,7 @@ An intelligent automation system for maintenance workflows, integrating GPT for 
 **Stack:** Python · BERT · HuggingFace · PyTorch  
 **Repo:** [biney17/bbc-news-classification-bert](https://github.com/biney17/bbc-news-classification-bert)
 
-Fine-tuned a BERT transformer model on the BBC News dataset to classify articles across categories (sport, tech, politics, business, entertainment). Achieved strong benchmark accuracy through careful tokenization and training.
-
----
-
-### 📝 Abstractive Text Summarization
-**Stack:** Python · HuggingFace Transformers · T5 · PyTorch  
-**Repo:** [biney17/abstractive-text-summarization](https://github.com/biney17/abstractive-text-summarization)
-
-A production-ready abstractive summarization pipeline powered by a fine-tuned T5 model. Capable of generating coherent, fluent summaries from long documents — not just extracting sentences, but *understanding* them.
+Fine-tuned BERT transformer for multi-class news classification.
 
 ---
 
@@ -195,15 +155,15 @@ A production-ready abstractive summarization pipeline powered by a fine-tuned T5
 
 - **Thesis:** *Intelligent Web Application for Preliminary Medical Image Diagnosis Using AI*
 - **Thesis Score: 19.5 / 20**
-- Designed 4 CNN models achieving **96% classification accuracy** on medical images
-- Built a full AI pipeline (OpenCV + TensorFlow/Keras) with a ReactJS web interface
+- 4 CNN models: Alzheimer (99.73%), Brain Tumor (94.51%), Kidney Stone (99%), Pneumonia (98%)
+- Full AI pipeline: OpenCV + TensorFlow/Keras + FastAPI + ReactJS
 
 ---
 
 ### 🎓 Bachelor of Engineering — Electronics
 **Université Mohamed Seddik Benyahia, Jijel** · *Sept 2020 – June 2023*
 
-Core coursework: PCB Layout, Power Electronics, Control Systems, Arduino, Microprocessor Architecture
+PCB Layout, Power Electronics, Control Systems, Arduino, Microprocessor Architecture
 
 ---
 
@@ -216,7 +176,6 @@ Core coursework: PCB Layout, Power Electronics, Control Systems, Arduino, Microp
 | Make Foundation | Make Academy | 2025 |
 | Problem Solving | INJAZ El Djazair | 2022 |
 | Head Start Leadership | INJAZ El Djazair | 2022 |
-| Leader Generation | INJAZ El Djazair | 2022 |
 
 ---
 
@@ -240,18 +199,8 @@ Core coursework: PCB Layout, Power Electronics, Control Systems, Arduino, Microp
 
 ## 📬 Let's Connect
 
-I'm always open to interesting projects, research collaborations, and opportunities in AI, Computer Vision, or Embedded Systems.
-
-&nbsp;
-
 📧 **Email:** [israbrahimi2002@gmail.com](mailto:israbrahimi2002@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/isra-nour-el-yakine-b-713a38208/] 
-🐙 **GitHub:** [github.com/biney17](https://github.com/biney17)  
-
-&nbsp;
+🔗 **LinkedIn:** [linkedin.com/in/isra-nour-el-yakine-b-713a38208](https://www.linkedin.com/in/isra-nour-el-yakine-b-713a38208/)  
+🐙 **GitHub:** [github.com/biney17](https://github.com/biney17)
 
 > *"The best AI doesn't replace human judgment — it extends it."*
-
----
-
-*Portfolio last updated: 2025 · Built with GitHub Pages*
