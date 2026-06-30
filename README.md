@@ -51,7 +51,7 @@ I've delivered end-to-end AI projects across medical imaging, embedded edge devi
 ## 💼 Professional Experience
 
 ### 🤖 AI Intern — [Aitronix](https://aitronix.com) *(Remote)*
-**December 2025 – Present**
+**December 2025 – March 2026**
 
 Working on end-to-end Computer Vision pipelines using Python, TensorFlow, and OpenCV for edge devices.
 
