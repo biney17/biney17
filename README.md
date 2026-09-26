@@ -20,7 +20,7 @@ I’m particularly interested in Computer Vision, Edge AI, TinyML, robotics, and
 🔹 Python & OpenCV
 🔹 TensorFlow / Keras
 🔹 Embedded AI & Edge Computing
-🔹 Arduino / Raspberry Pi / ESP32
+🔹 Arduino / STM32 / ESP32
 🔹 Machine Learning & Data Science
 
 📌 Open to opportunities in AI Engineering, Computer Vision, Embedded AI, and Machine Learning.
