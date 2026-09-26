@@ -3,13 +3,25 @@
 
 > *"I don't just write code — I teach machines to see."*
 
-📍 Jijel, Algeria &nbsp;|&nbsp; 📧 israbrahimi2002@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/isra-nour-el-yakine-b-713a38208/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/biney17) &nbsp;|&nbsp; ✅ Available Immediately
+📍 Jijel, Algeria &nbsp;|&nbsp; 📧 israbrahimi2002@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/isra-nour-el-yakine-b-713a38208/) &nbsp;|&nbsp;  ✅ Available Immediately
 
 ---
 
 ## 🙋‍♀️ About Me
 
-Hi, I'm Isra — an AI and Embedded Systems engineer specializing in Computer Vision and Deep Learning. My work focuses on building systems that detect, understand, and respond to the visual world in real time — from medical image classifiers to real-time ocular tracking.
+AI / Computer Vision Engineer with a Master’s degree in Embedded Systems Engineering.
 
-I've delivered end-to-end AI projects across medical imaging, embedded edge devices, and real-time video analysis. I earned my Master's thesis score of **19.5/20** for an intelligent web application for AI-powered medical diagnosis, and I'm currently an AI Intern at **Aitronix** working on real-world CV pipelines.
+I build practical AI solutions using Python, Machine Learning, Deep Learning, Computer Vision, and Embedded Systems. My work focuses on object detection, image classification, real-time vision, and AI-powered applications, with hands-on experience using YOLO, OpenCV, TensorFlow, Keras, and MediaPipe.
+
+I’m particularly interested in Computer Vision, Edge AI, TinyML, robotics, and intelligent embedded systems.
+
+🔹 Computer Vision & Deep Learning
+🔹 YOLO & Object Detection
+🔹 Python & OpenCV
+🔹 TensorFlow / Keras
+🔹 Embedded AI & Edge Computing
+🔹 Arduino / Raspberry Pi / ESP32
+🔹 Machine Learning & Data Science
+
+📌 Open to opportunities in AI Engineering, Computer Vision, Embedded AI, and Machine Learning.
 
